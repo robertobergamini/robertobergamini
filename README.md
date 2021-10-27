@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robertobergamini
 - 👀 I’m interested in evolutionary algorithms
-- 🌱 I’m currently learning evolutionari algorithms, python, Dart, flutter
+- 🌱 I’m currently learning evolutionari algorithms, python, Dart, flutter, Uno platform
 - 💞️ I’m looking to collaborate on evolutionari algorithms problem, scheduling
 - 📫 How to reach me : robertobergaminidamodena@gmail.com, cell phone 342-1099963
 
